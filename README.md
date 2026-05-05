@@ -1,38 +1,68 @@
-<h1 align="center">Привет, я Дмитрий Сараев</h1>
-<h3 align="center">Python backend разработчик</h3>
+<h1 align="center">Привет, я Дмитрий Сараев 👋</h1>
+<h3 align="center">Python Backend Developer</h3>
 
+---
 
+- 🔭 Сейчас работаю на производственном предприятии и занимаюсь автоматизацией бизнес-процессов с помощью Python и FastAPI
 
-- 🔭 В данное время работаю на производственном предприятии, занимаюсь разработкой автоматизации бизнес процессов с помощь Python, FastApi 
- 
+- 🌱 Разрабатываю API и backend для приложений на Django REST Framework, есть опыт создания проектов на Django с использованием шаблонов
 
-- 🌱 Пишу API, backend для приложений на Django REST Framework, есть опыт написания проектов на Django с использованием шаблонизатора. Разрабатывал телеграм-ботов.
+- 🤖 Разрабатывал Telegram-ботов и AI-based проекты
 
-- 📫 Мой канл в телеграм https://t.me/dasar_it
+- 📫 Мой канал в Telegram: https://t.me/dasar_it
 
 <h3 align="left">Мои контакты:</h3>
+
 <p align="left">
-Телеграм https://t.me/saraev_dmitrii
+Telegram: https://t.me/saraev_dmitrii
 </p>
 
 <h3 align="left">Мой стек:</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.d9Ob12ZXFxWKCTa8K8niiAHaHa%26pid%3DApi&f=1&ipt=7243db93a794562387a8cbbcb746847101b54335aa6d82b398010cacad6dfe44&ipo=images" alt="fastAPI" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/djangoproject-2752208-2285025.png?f=avif&w=512" alt="django" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DmitriiSaraev&show_icons=true&locale=en&layout=compact" alt="DmitriiSaraev" /></p>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DmitriiSaraev&show_icons=true&locale=en" alt="DmitriiSaraev" /></p>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
+</a>
 
-<!--
-**DmitriiSaraev/DmitriiSaraev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DmitriiSaraev&show_icons=true&locale=ru&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DmitriiSaraev&show_icons=true&locale=ru" alt="GitHub Stats" />
+</p>
