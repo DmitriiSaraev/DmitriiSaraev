@@ -1,29 +1,72 @@
-<h1 align="center">Привет, я Дмитрий Сараев 👋</h1>
-<h3 align="center">Python Backend Developer</h3>
+<h1 align="center">Привет 👋, я Дмитрий Сараев</h1>
+<h3 align="center">Python Backend Developer | Django | FastAPI | Automation</h3>
 
----
-
-- 🔭 Сейчас работаю на производственном предприятии и занимаюсь автоматизацией бизнес-процессов с помощью Python и FastAPI
-
-- 🌱 Разрабатываю API и backend для приложений на Django REST Framework, есть опыт создания проектов на Django
-
-- 🤖 Разрабатывал Telegram-ботов и AI-based проекты
-
-- 📫 Мой канал в Telegram: https://t.me/dasar_it
-
-### Мои контакты:
-
-Telegram: https://t.me/saraev_dmitrii
-
-### Мой стек:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,docker,git,linux,nginx,html,css" />
+<p align="center">
+  Разрабатываю backend, API и автоматизирую бизнес-процессы
 </p>
 
 ---
 
+## 🚀 Обо мне
+
+- 🔭 Работаю над автоматизацией бизнес-процессов на Python
+- ⚙️ Разрабатываю backend-приложения и REST API
+- 🌱 Работаю с Django, FastAPI, PostgreSQL, Docker
+- 🤖 Создаю Telegram-ботов и AI-powered проекты
+- 🧠 Интересуюсь ML, нейросетями и AI automation
+
+---
+
+## 🛠 Технологический стек
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git,linux,nginx,redis,html,css,js" />
+</p>
+
+---
+
+## 📊 GitHub статистика
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiSaraev&layout=compact&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DmitriiSaraev&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DmitriiSaraev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiSaraev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DmitriiSaraev&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DmitriiSaraev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📫 Контакты
+
+📩 Telegram: https://t.me/saraev_dmitrii  
+📢 Канал: https://t.me/dasar_it  
+
+---
+
+## 💡 Сейчас изучаю
+
+- Высоконагруженные backend-системы
+- Архитектуру микросервисов
+- AI integrations
+- Production-ready systems
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DmitriiSaraev&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
