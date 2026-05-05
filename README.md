@@ -29,24 +29,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DmitriiSaraev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiSaraev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DmitriiSaraev&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DmitriiSaraev&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
